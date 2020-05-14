@@ -1,0 +1,6 @@
+*.pkl
+.ipynb_checkpoints
+__pycache__
+.vscode
+.ipynb_checkpoints
+.python-version
